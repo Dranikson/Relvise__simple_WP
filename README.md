@@ -1,4 +1,5 @@
 Little web page I've created. It has simple adaptiveness.
+
 Things to modify/add:
 - add burger menu
 - add hovers for footer
